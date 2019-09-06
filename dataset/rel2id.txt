@@ -1,0 +1,100 @@
+instance of	P31
+country	P17
+country of citizenship	P27
+occupation	P106
+located in the administrative territorial entity	P131
+place of birth	P19
+shares border with	P47
+member of sports team	P54
+cast member	P161
+taxon rank	P105
+sport	P641
+place of death	P20
+parent taxon	P171
+participant of	P1344
+contains administrative territorial entity	P150
+genre	P136
+languages spoken, written or signed	P1412
+educated at	P69
+award received	P166
+country of origin	P495
+follows	P155
+followed by	P156
+original language of work	P364
+position played on team / speciality	P413
+sister city	P190
+subclass of	P279
+located in time zone	P421
+performer	P175
+part of	P361
+member of	P31
+record label	P264
+child	P40
+member of political party	P102
+director	P57
+brother	P3373
+position held	P39
+discoverer or inventor	P61
+composer	P86
+employer	P108
+father	P22
+headquarters location	P159
+producer	P162
+spouse	P26
+nominated for	P1411
+named after	P138
+has part	P527
+conflict	P607
+manner of death	P1196
+religion	P140
+sister	P3373
+cause of death	P509
+place of burial	P119
+author	P50
+instrument	P1303
+winner	P1346
+manufacturer	P176
+production company	P272
+work location	P937
+capital	P36
+publisher	P123
+capital of	P1376
+native language	P103
+mother	P25
+main subject	P921
+series	P179
+developer	P61
+depicts	P180
+location	P625
+continent	P30
+participant	P710
+league	P118
+noble family	P53
+given name	P735
+drafted by	P647
+owned by	P127
+creator	P170
+distribution	P437
+notable work	P800
+military branch	P241
+distributor	P750
+residence	P551
+field of work	P101
+lyrics by	P676
+official language	P37
+student of	P1066
+founder	P112
+occupant	P466
+based on	P1013
+sports discipline competed in	P2416
+political ideology	P1142
+film editor	P1040
+significant event	P793
+industry	P452
+heritage status	P1435
+language of work or name	P407
+student	P802
+material used	P186
+office held by head of government	P1313
+doctoral advisor	P184
+NA	P27
